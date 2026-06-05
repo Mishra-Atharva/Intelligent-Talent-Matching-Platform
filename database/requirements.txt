@@ -1,0 +1,9 @@
+psycopg2-binary
+python-dotenv
+fastapi
+pydantic
+pydantic[email]
+pyjwt
+bcrypt
+dotenv
+requests
